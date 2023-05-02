@@ -1,0 +1,5 @@
+[2023-05-02 13:54:06,542] {scheduler_job.py:182} INFO - Started process (PID=216) to work on /opt/airflow/dags/includes/py_scripts/trans_data.py
+[2023-05-02 13:54:06,543] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/includes/py_scripts/trans_data.py for tasks to queue
+[2023-05-02 13:54:06,544] {logging_mixin.py:104} INFO - [2023-05-02 13:54:06,544] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/includes/py_scripts/trans_data.py
+[2023-05-02 13:54:06,787] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/includes/py_scripts/trans_data.py
+[2023-05-02 13:54:06,795] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/includes/py_scripts/trans_data.py took 0.255 seconds
